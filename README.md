@@ -16,4 +16,4 @@ Java is a class-based, object-oriented programming language that is designed to 
 
 ### Popular Open Source GitHub Repository to Contribute
 
-🟠 [![Java](https://img.shields.io/badge/Kotlin-Lang-2c93b0?style=flat)](https://github.com/jenkinsci/jenkins)
+🟠 [![Java](https://img.shields.io/badge/Jenkins-Automation%20Server-2c93b0?style=flat)](https://github.com/jenkinsci/jenkins)
