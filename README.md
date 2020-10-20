@@ -12,8 +12,8 @@ Java is a class-based, object-oriented programming language that is designed to 
 
 ### Features of Java Programming Language
 
-🟠 [![Java](https://img.shields.io/badge/Develop-Mobile%20Applications-690e96?style=flat)]()
+🟠 [![Java](https://img.shields.io/badge/Develop-Mobile%20Applications-2c93b0?style=flat)]()
 
 ### Popular Open Source GitHub Repository to Contribute
 
-🟠 [![Java](https://img.shields.io/badge/Kotlin-Lang-690e96?style=flat)]()
+🟠 [![Java](https://img.shields.io/badge/Kotlin-Lang-2c93b0?style=flat)]()
