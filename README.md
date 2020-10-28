@@ -25,7 +25,7 @@ Java is a class-based, object-oriented programming language that is designed to 
 
 🟠 [![Java](https://img.shields.io/badge/Variable-Declaration%20and%20Initialization-2c93b0?style=flat)]()
 
-🟠 [![Java](https://img.shields.io/badge/Primitive%20Data%20Types-2c93b0?style=flat)]()
+🟠 [![Java](https://img.shields.io/badge/Primitive-Data%20Types-2c93b0?style=flat)]()
 
 🟠 [![Java](https://img.shields.io/badge/Scanner-Input-2c93b0?style=flat)]()
 
@@ -103,22 +103,109 @@ Java is a class-based, object-oriented programming language that is designed to 
 
 🟠 [![Java](https://img.shields.io/badge/for%20Loops%20with%20Lists%20&-How%20to%20Modify%20Each%20Element-2c93b0?style=flat)]()
 
-🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+🟠 [![Java](https://img.shields.io/badge/for%20each%20Loop-in%20Java-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Nested%20for-each%20Loop-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Convert%20List%20to-an%20Array-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Sort%20and%20Reverse%20a%20List%20with-Collections.sort%20and%20Collections.reverse-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Intro%20to-Object%20Oriented%20Programming%20(OOP)-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Class-vs%20Object-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Fields-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Methods-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Basics%20of%20Creating-a%20Class%20and%20Object-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Adding%20Fields%20to-a%20Class-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Creating%20Our-First%20Method-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Arguments%20and-Parameters%20in%20Methods-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Return-Statement-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Encapsulation-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Create-a%20Getter-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Create%20a-Setter-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Custom%20Getter-and%20Setter-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/ArrayList%20f-Custom%20Type-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Creating-Custom%20Type%20in%20Loop-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Taking%20Custom%20Types-as%20Arguments-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Intro%20to-Static%20Methods-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Creating%20a-Static%20Method-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Method%20to%20take%20an%20ArrayList-of%20Custom%20Type-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Method%20Overloading%20and%20Optional%20Parameters-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Working%20with%20overloads-to%20Print%20a%20User-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Searching%20a%20List%20for-Custom%20Objects-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Method-Overriding-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Override-toString-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Override-Equals-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Overload%20the%20Search-to%20Take%20in%20a%20User%20Object-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Returning-Custom%20Objects-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Passing%20by%20Value-or%20Reference-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Inheritance-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Working%20with-Inheritance-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Virtual-in%20Java-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Creating%20a%20Method-in%20User%20Class%20and%20Overriding%20in%20a%20Derived%20Class-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/abstract-Class-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/abstract-Method-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Polymorphism-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Polymorphism-in%20Practice-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Constructors-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Creating%20the-Default%20Constructor-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Custom-Constructors-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Invoke%20Parent-Class%20Methods%20with%20super%20keyword-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Readonly%20Fields-Assigned%20with%20Constructor-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Interfaces-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Creating%20an-Interface%20for%20Functionality-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Final-Methods-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Final-Classes-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-enum-2c93b0?style=flat)]()
 
 🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
 
-🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
-
-🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
-
-🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
-
-🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
-
-🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
-
-🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
-
+🟠 [![Java](https://img.shields.io/badge/enum-in%20switch-2c93b0?style=flat)]()
 
 
 
