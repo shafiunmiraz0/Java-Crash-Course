@@ -9,6 +9,97 @@ Java is a class-based, object-oriented programming language that is designed to 
 
 🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
 
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
 
 ### Features of Java Programming Language
 
