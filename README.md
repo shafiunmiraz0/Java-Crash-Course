@@ -7,7 +7,7 @@ Java is a class-based, object-oriented programming language that is designed to 
 
 ### Contents
 
-🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
+🟠 [![Java](https://img.shields.io/badge/Introduction%20of-Java%20Programming%20Language-2c93b0?style=flat)](https://github.com/shafiunmiraz0/Java-Crash-Course/tree/main/Intro%20to%20Java)
 
 🟠 [![Java](https://img.shields.io/badge/Installation%20of-Java%20Programming%20Language-2c93b0?style=flat)]()
 
